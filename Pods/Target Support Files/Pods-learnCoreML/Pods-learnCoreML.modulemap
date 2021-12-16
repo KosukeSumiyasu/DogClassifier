@@ -1,0 +1,6 @@
+framework module Pods_learnCoreML {
+  umbrella header "Pods-learnCoreML-umbrella.h"
+
+  export *
+  module * { export * }
+}
